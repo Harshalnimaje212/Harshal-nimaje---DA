@@ -1,0 +1,5 @@
+ContactEmployeeID,ContactID,EmployeID,ContactDate,Description
+1,1,101,2014-03-12,"Discussed project delivery timeline"
+2,2,102,2022-07-15,"Reviewed quarterly performance"
+3,3,103,2015-01-01,"Negotiated contract terms"
+4,5,104,2024-04-10,"Initial consultation"

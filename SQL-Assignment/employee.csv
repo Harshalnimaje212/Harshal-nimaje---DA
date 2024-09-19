@@ -1,0 +1,5 @@
+EmployeeID,FirstName,LastName,Salary,HireDate,JobTitle,Email,Phone
+101,Jack,Lee,75000.00,2020-06-01,"Software Engineer",amit.kumar@tcs.com,215-555-8803
+102,Lesley,Verma,85000.00,2019-04-15,"Senior Analyst",priya.verma@infosys.com,215-555-8804
+103,Lesley," Bland",90000.00,2018-03-20,"Project Manager",raj.singh@wipro.com,215-555-8800
+104,Jane,Doe,95000.00,2022-02-01,"Sales Manager",jane.doe@example.com,215-555-1235

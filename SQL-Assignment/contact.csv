@@ -1,0 +1,6 @@
+ContactID,CompanyID,FirstName,LastName,Street,City,State,Zip,IsMain,Email,Phone
+1,1,Ravi,Reddy,Indiranagar,Bengaluru,KA,560003,1,sneha.reddy@infosys.com,215-555-8801
+2,2,Vikram,Patel,Koramangala,Bengaluru,KA,560004,1,vikram.patel@wipro.com,215-555-8802
+3,3,Anjali,Mehta,"Nariman Point",Mumbai,MH,400005,1,anjali.mehta@ril.com,215-555-8803
+4,4,Dianne,Connor,"Noida Sector 5",Noida,UP,201305,1,ravi.gupta@hcl.com,215-555-8804
+5,5,John,Doe,"Market Street",Philadelphia,PA,19103,1,john.doe@tollbrothers.com,215-555-1234
